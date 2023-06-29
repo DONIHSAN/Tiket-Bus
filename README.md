@@ -16,8 +16,8 @@
 # SQL Database
 
 ```
-create database Tiket_Bus;
-use Tiket_Bus;
+create database TiketBus;
+use TiketBus;
 ```
 
 # SQL Tables
@@ -74,6 +74,7 @@ desc Penumpang;
 ```
 create table Transaksi (
 idTransaksi int not null primary key,
+idArmada int not null,
 idJadwal int not null,
 idPenumpang int not null,
 Harga bigint,
