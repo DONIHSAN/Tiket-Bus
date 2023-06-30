@@ -283,5 +283,7 @@ join penumpang on transaksi.idPenumpang=penumpang.idPenumpang;
 
 ![gambar](screenshot/ss17.png)
 
+- **LEFT JOIN**
+
 
 ## SELESAI <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/thumbs/160/twitter/348/flag-indonesia_1f1ee-1f1e9.png">
