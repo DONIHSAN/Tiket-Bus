@@ -8,11 +8,11 @@
 |Veronika Natalia Kala|312210690|TI.22.A.2|Basis Data|
 |Fergiawan Satrio Bagaskoro|312210169|TI.22.A.2|Basis Data|
 
-<img src=https://karanganyar.ngawikab.go.id/wp-content/uploads/2022/12/YouTube-Logo.wine_.png width="200px">
+<img src=https://www.logo.wine/a/logo/YouTube/YouTube-White-Full-Color-Dark-Background-Logo.wine.svg width="200px">
 
 - [Link Dokumentasi Presentasi](https://youtu.be/5QuRxGbY0O0)
 
-***Jika Daftar Collaborator Belum Muncul , Silahkan Refresh 1 Sampai 2 Kali.***
+***Jika Daftar Contributors Belum Muncul , Silahkan Refresh 1 Sampai 2 Kali.***
 
 ![gambar](screenshot/Format%20Tugas%201.png)
 
