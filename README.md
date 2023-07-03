@@ -8,12 +8,18 @@
 |Veronika Natalia Kala|312210690|TI.22.A.2|Basis Data|
 |Fergiawan Satrio Bagaskoro|312210169|TI.22.A.2|Basis Data|
 
+<img src=https://mmc.tirto.id/image/otf/880x495/2017/08/30/logo-youtube-new-youtube.comcopy.jpg width="200px">
+
+- [Link Dokumentasi Presentasi](https://youtu.be/5QuRxGbY0O0)
+
+***Jika Daftar Collaborator Belum Muncul , Silahkan Refresh 1 Sampai 2 Kali.***
 
 ![gambar](screenshot/Format%20Tugas%201.png)
 
 ![gambar](screenshot/Format%20Tugas%202.png)
 
 ![gambar](screenshot/ER-Digram%20Database%20penjualan%20tiket%20bus%20v.3.png)
+
 
 # SQL Database
 
