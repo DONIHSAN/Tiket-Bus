@@ -8,7 +8,7 @@
 |Veronika Natalia Kala|312210690|TI.22.A.2|Basis Data|
 |Fergiawan Satrio Bagaskoro|312210169|TI.22.A.2|Basis Data|
 
-<img src=https://www.logo.wine/a/logo/YouTube/YouTube-White-Full-Color-Dark-Background-Logo.wine.svg width="200px">
+<img src=https://www.logo.wine/a/logo/YouTube/YouTube-White-Full-Color-Dark-Background-Logo.wine.svg width="170px">
 
 - [Link Dokumentasi Presentasi](https://youtu.be/5QuRxGbY0O0)
 
