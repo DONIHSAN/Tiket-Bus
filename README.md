@@ -304,7 +304,8 @@ LEFT JOIN penumpang on transaksi.idPenumpang=penumpang.idPenumpang;
 
 - **RIGHT JOIN**
 ```
-SELECT transaksi.idTransaksi as " ID Transaksi", transaksi.Harga as " Harga", armada.NamaArmada as " Nama Armada ", jadwal_berangkat.Tgl_Keberangkatan as " Tanggal Keberangkatan"
+SELECT transaksi.idTransaksi as " ID Transaksi", transaksi.Harga as " Harga",
+armada.NamaArmada as " Nama Armada ", jadwal_berangkat.Tgl_Keberangkatan as " Tanggal Keberangkatan"
 
 from transaksi 
 RIGHT JOIN armada on transaksi.idArmada=armada.idArmada
@@ -312,5 +313,7 @@ RIGHT JOIN jadwal_berangkat on transaksi.idJadwal=jadwal_berangkat.idJadwal;
 ```
 
 ![ss19](https://github.com/DONIHSAN/Tiket-Bus/assets/115523263/8695c382-c546-4da1-b827-152993fbc9d2)
+
+***Sekian Project Database Penjualan Tiket Bus Dari Kelompok Kami , Wassalamualaikum Warohmatullahi Wabarakaatuh***
 
 ## SELESAI <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/thumbs/160/twitter/348/flag-indonesia_1f1ee-1f1e9.png">
